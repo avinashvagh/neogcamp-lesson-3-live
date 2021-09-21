@@ -91,3 +91,13 @@ hr {
 .hero .hero-heading .heading-inverted {
   color: blueviolet;
 }
+
+/* sections */
+
+.section h1 {
+  text-align: center;
+}
+
+.ow {
+  background-color: #d1d5db;
+}
